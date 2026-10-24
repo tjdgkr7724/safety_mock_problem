@@ -1,0 +1,35 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>롤링타워 안전 모의시험</title>
+  <link rel="stylesheet" href="{% static 'core/quiz.css' %}">
+</head>
+<body>
+  <header><a href="{% url 'core:home' %}">롤링타워 <strong>안전 모의시험</strong></a><span>안전규정 학습</span>{% if desktop_mode %}<button type="button" id="quit-app" disabled>종료 준비 중…</button>{% endif %}</header>
+  <main>{% block content %}{% endblock %}</main>
+  {% block scripts %}{% endblock %}
+  {% if desktop_mode %}<script>
+    const quitButton = document.getElementById('quit-app');
+    function enableQuit() {
+      if (typeof window.pywebview?.api?.quit === 'function') {
+        quitButton.disabled = false;
+        quitButton.textContent = '종료하기';
+      }
+    }
+    window.addEventListener('pywebviewready', enableQuit);
+    enableQuit();
+    quitButton.addEventListener('click', async () => {
+      quitButton.disabled = true;
+      quitButton.textContent = '종료 중…';
+      try { await window.pywebview.api.quit(); }
+      catch (error) {
+        quitButton.disabled = false;
+        quitButton.textContent = '종료 재시도';
+        console.error(error);
+      }
+    });
+  </script>{% endif %}
+</body>
+</html>

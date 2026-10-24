@@ -1,0 +1,9 @@
+{% extends 'core/base.html' %}
+{% block content %}
+<section class="card result-summary"><div><span class="badge">시험 결과</span><h1>{{ score }} / 10문제 정답</h1><p class="muted">{{ points }}점 · 아래에서 정답과 해설을 확인하세요.</p></div><form method="post" action="{% url 'core:start' %}">{% csrf_token %}<button class="primary">다시 풀기 →</button></form></section>
+{% for row in rows %}<section class="card result-row"><div class="question-meta"><span>{{ row.position }}번 · {{ row.q.label }}</span><strong class="{% if row.correct %}correct{% else %}error{% endif %}">{% if row.correct %}✓ 정답{% else %}✕ 오답{% endif %}</strong></div><h2>{{ row.q.text }}</h2>
+{% if row.q.choices %}<ol class="result-options">{% for choice in row.q.choices %}<li {% if choice.id == row.q.correct_choice %}class="correct"{% endif %}>{{ choice.text }}{% if choice.id == row.q.correct_choice %} ✓ 정답{% endif %}</li>{% endfor %}</ol>{% endif %}
+<p><strong>내 답안</strong>　{{ row.answer|default:'미응답' }}</p><p><strong>정답</strong>　{{ row.q.answer }}</p><div class="explanation"><strong>해설</strong><p>{{ row.q.explanation }}</p><small>{{ row.q.source }}</small></div>
+{% if row.q.category == 'short' %}<p class="muted">자동 채점: {% if row.automatic %}정답{% else %}오답{% endif %}{% if row.overridden %} · 직접 채점 적용{% endif %}<br>같은 의미의 답안이라면 직접 채점을 변경할 수 있습니다.</p><form method="post" action="{% url 'core:override' attempt.pk %}" class="override">{% csrf_token %}<button name="correct" value="yes">정답으로 변경</button><button name="correct" value="no">오답으로 변경</button></form>{% endif %}</section>{% endfor %}
+<form method="post" action="{% url 'core:start' %}" class="bottom-action">{% csrf_token %}<button class="primary">새로운 10문제 다시 풀기</button></form>
+{% endblock %}

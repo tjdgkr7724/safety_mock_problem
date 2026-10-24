@@ -1,0 +1,1794 @@
+[
+  {
+    "number": 1,
+    "category": "easy",
+    "text": "롤링타워는 어떤 장비인가?",
+    "choices": [
+      "바퀴가 달린 이동식 고소 작업대",
+      "자재 운반용 지게차",
+      "바닥 청소 장비",
+      "고정식 창고 선반"
+    ],
+    "correct_choice": 0,
+    "answer": "바퀴가 달린 이동식 고소 작업대",
+    "explanation": "롤링타워는 높은 위치에서 작업하는 이동식 작업대이다.",
+    "source": "원본 PDF 2쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 2,
+    "category": "easy",
+    "text": "위험하다고 판단될 때 가장 먼저 할 행동은?",
+    "choices": [
+      "작업 중지",
+      "동료에게만 알리기",
+      "작업 종료까지 기다리기",
+      "작업 속도 높이기"
+    ],
+    "correct_choice": 0,
+    "answer": "작업 중지",
+    "explanation": "위험을 느끼면 작업 중지권을 사용하고 안전담당자에게 보고한다.",
+    "source": "원본 PDF 2쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 3,
+    "category": "easy",
+    "text": "안전고리 미체결과 직접 관련된 대표 사고는?",
+    "choices": [
+      "추락",
+      "소음 증가",
+      "방진복 오염",
+      "문서 분실"
+    ],
+    "correct_choice": 0,
+    "answer": "추락",
+    "explanation": "안전고리 미체결, 난간대 미상승, 난간대에 앉는 행동은 추락 원인이다.",
+    "source": "원본 PDF 2쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 4,
+    "category": "easy",
+    "text": "이탈방지끈을 체결하지 않은 공구가 일으킬 수 있는 사고는?",
+    "choices": [
+      "서류 누락",
+      "낙하",
+      "조명 고장",
+      "통신 지연"
+    ],
+    "correct_choice": 1,
+    "answer": "낙하",
+    "explanation": "공도구와 자재가 떨어지면 하부 작업자 부상과 설비 손상으로 이어진다.",
+    "source": "원본 PDF 2쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 5,
+    "category": "easy",
+    "text": "아웃트리거 미고정과 관련된 대표 위험은?",
+    "choices": [
+      "문서 분실",
+      "방진모 변색",
+      "출근 지연",
+      "전도"
+    ],
+    "correct_choice": 3,
+    "answer": "전도",
+    "explanation": "받침다리와 스토퍼 고정은 타워가 넘어지거나 밀리는 위험을 예방한다.",
+    "source": "원본 PDF 2쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 6,
+    "category": "easy",
+    "text": "5M형에 장착된 승강용 추락방지 장치는?",
+    "choices": [
+      "소화기",
+      "안전블록",
+      "자재박스",
+      "경광봉"
+    ],
+    "correct_choice": 1,
+    "answer": "안전블록",
+    "explanation": "5M형은 승강용 안전블록을 갖춘다.",
+    "source": "원본 PDF 3쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 7,
+    "category": "easy",
+    "text": "6.4M형의 주요 용도는?",
+    "choices": [
+      "모든 구간 공통 사용",
+      "일반 사무실 정리",
+      "복층 Rail Set-up 전용",
+      "지상 자재 운반"
+    ],
+    "correct_choice": 2,
+    "answer": "복층 Rail Set-up 전용",
+    "explanation": "교육자료는 6.4M형을 복층 Rail Set-up 전용으로 구분한다.",
+    "source": "원본 PDF 3쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 8,
+    "category": "easy",
+    "text": "6.4M형에서 사용하는 추락방지끈의 로프는?",
+    "choices": [
+      "PP로프",
+      "임의의 끈",
+      "면로프",
+      "타이거로프"
+    ],
+    "correct_choice": 0,
+    "answer": "PP로프",
+    "explanation": "6.4M형은 PP로프를 상시 체결하며 타이거로프는 금지한다.",
+    "source": "원본 PDF 3쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 9,
+    "category": "easy",
+    "text": "타이거로프 사용 금지 이유는?",
+    "choices": [
+      "태그가 커서",
+      "신축성 때문",
+      "보관이 쉬워서",
+      "색상이 밝아서"
+    ],
+    "correct_choice": 1,
+    "answer": "신축성 때문",
+    "explanation": "원문은 신축성 때문에 타이거로프를 추락방지 로프로 쓰지 못하도록 한다.",
+    "source": "원본 PDF 3쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 10,
+    "category": "easy",
+    "text": "5.5M형에서 추가로 주의할 위험은?",
+    "choices": [
+      "전화 수신 불량",
+      "급여 계산 오류",
+      "국소배기관 및 OHT와의 추돌",
+      "노트 분실"
+    ],
+    "correct_choice": 2,
+    "answer": "국소배기관 및 OHT와의 추돌",
+    "explanation": "높이가 높아 난간대를 내려도 국소배기관이나 OHT에 부딪힐 수 있다.",
+    "source": "원본 PDF 3쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 11,
+    "category": "easy",
+    "text": "안전난간대의 주된 목적은?",
+    "choices": [
+      "자재 운반",
+      "추락 예방",
+      "조명 설치",
+      "작업시간 기록"
+    ],
+    "correct_choice": 1,
+    "answer": "추락 예방",
+    "explanation": "난간대는 작업자의 추락을 예방하는 장치이다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 12,
+    "category": "easy",
+    "text": "올린 안전난간대의 높이는?",
+    "choices": [
+      "900mm",
+      "600mm",
+      "1200mm",
+      "300mm"
+    ],
+    "correct_choice": 0,
+    "answer": "900mm",
+    "explanation": "난간대는 내렸을 때 600mm, 올렸을 때 900mm이다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 13,
+    "category": "easy",
+    "text": "내린 안전난간대의 높이는?",
+    "choices": [
+      "600mm",
+      "200mm",
+      "900mm",
+      "1500mm"
+    ],
+    "correct_choice": 0,
+    "answer": "600mm",
+    "explanation": "하강 상태와 상승 상태의 높이를 구분해 기억한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 14,
+    "category": "easy",
+    "text": "아웃트리거의 총 개수는?",
+    "choices": [
+      "3개",
+      "1개",
+      "2개",
+      "4개"
+    ],
+    "correct_choice": 3,
+    "answer": "4개",
+    "explanation": "4개 모두 정상 상태인지 점검하고 개방하여 고정한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 15,
+    "category": "easy",
+    "text": "아웃트리거의 올바른 설치 상태는?",
+    "choices": [
+      "고정 없이 펼치기",
+      "최대한 개방 후 단단히 고정",
+      "접은 상태로 고정",
+      "한 개만 개방"
+    ],
+    "correct_choice": 1,
+    "answer": "최대한 개방 후 단단히 고정",
+    "explanation": "아웃트리거는 전도 방지 받침다리이므로 개방과 고정이 모두 필요하다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 16,
+    "category": "easy",
+    "text": "보강대 해제 후 작업 전에 해야 할 것은?",
+    "choices": [
+      "작업 종료 후 설치",
+      "완전히 폐기",
+      "반드시 재설치",
+      "그대로 작업"
+    ],
+    "correct_choice": 2,
+    "answer": "반드시 재설치",
+    "explanation": "설비 진입 시에만 해제하고 작업 시작 전에 재설치한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 17,
+    "category": "easy",
+    "text": "작업 및 보관 시 바퀴스토퍼의 상태는?",
+    "choices": [
+      "1개만 Lock",
+      "모두 해제",
+      "4개 모두 Lock",
+      "2개만 Lock"
+    ],
+    "correct_choice": 2,
+    "answer": "4개 모두 Lock",
+    "explanation": "작업 중뿐 아니라 보관 중에도 바퀴 4개를 모두 잠근다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 18,
+    "category": "easy",
+    "text": "발판 DOOR의 기본 유지 상태는?",
+    "choices": [
+      "시건장치 제거",
+      "절반만 닫기",
+      "항상 닫고 시건장치 잠금 확인",
+      "항상 열기"
+    ],
+    "correct_choice": 2,
+    "answer": "항상 닫고 시건장치 잠금 확인",
+    "explanation": "출입문을 닫아 개구부를 방지하고 잠금 상태도 확인한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 19,
+    "category": "easy",
+    "text": "안전블록 끈이 올라가지 않고 텐션이 불량하면?",
+    "choices": [
+      "속도만 줄여 사용",
+      "불량으로 판단",
+      "경력자만 사용",
+      "정상으로 판단"
+    ],
+    "correct_choice": 1,
+    "answer": "불량으로 판단",
+    "explanation": "복귀와 텐션이 정상적이지 않으면 불량이며 사용을 중지하고 보고한다.",
+    "source": "원본 PDF 4, 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 20,
+    "category": "easy",
+    "text": "생명줄 처짐의 기준은?",
+    "choices": [
+      "제한 없음",
+      "30cm 이하",
+      "수평에서 20cm 이하",
+      "50cm 이하"
+    ],
+    "correct_choice": 2,
+    "answer": "수평에서 20cm 이하",
+    "explanation": "수평 기준 처짐이 20cm를 넘지 않아야 한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 21,
+    "category": "easy",
+    "text": "생명줄 양 끝의 매듭 방식은?",
+    "choices": [
+      "리본매듭",
+      "매듭 없이 묶기",
+      "8자매듭",
+      "아무 매듭"
+    ],
+    "correct_choice": 2,
+    "answer": "8자매듭",
+    "explanation": "양 끝은 8자매듭으로 체결하도록 규정한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 22,
+    "category": "easy",
+    "text": "생명줄 인증태그의 총 개수는?",
+    "choices": [
+      "2개",
+      "1개",
+      "3개",
+      "4개"
+    ],
+    "correct_choice": 3,
+    "answer": "4개",
+    "explanation": "양쪽 끝에 2개씩, 총 4개를 확인한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 23,
+    "category": "easy",
+    "text": "4대 서류에 포함되지 않는 것은?",
+    "choices": [
+      "급여명세서",
+      "SOP",
+      "DRI",
+      "허가서"
+    ],
+    "correct_choice": 0,
+    "answer": "급여명세서",
+    "explanation": "4대 서류는 허가서, DRI, 전·중·후 Check Sheet, SOP이다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 24,
+    "category": "easy",
+    "text": "4대 서류 중 오늘 작업내용을 숙지할 자료는?",
+    "choices": [
+      "급여명세서",
+      "개인 수첩",
+      "출근부",
+      "SOP"
+    ],
+    "correct_choice": 3,
+    "answer": "SOP",
+    "explanation": "현장에 비치하는 것과 별개로 오늘 작업의 SOP를 숙지한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 25,
+    "category": "easy",
+    "text": "작업 승인 확인을 위해 Check Sheet에서 볼 것은?",
+    "choices": [
+      "작업자 생일",
+      "고객사 서명",
+      "식사 메뉴",
+      "휴대전화 번호"
+    ],
+    "correct_choice": 1,
+    "answer": "고객사 서명",
+    "explanation": "전·중·후 Check Sheet의 고객사 서명을 확인한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 26,
+    "category": "easy",
+    "text": "롤링타워에 작성하고 부착해야 하는 카드는?",
+    "choices": [
+      "교통 카드",
+      "식권",
+      "실명제 카드",
+      "포인트 카드"
+    ],
+    "correct_choice": 2,
+    "answer": "실명제 카드",
+    "explanation": "실명제 카드를 작성·부착하고 특이사항을 안전관리자에게 알린다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 27,
+    "category": "easy",
+    "text": "파란색 식별띠는 누구를 나타내는가?",
+    "choices": [
+      "방문자",
+      "하부작업자",
+      "보조작업자",
+      "상부작업자"
+    ],
+    "correct_choice": 3,
+    "answer": "상부작업자",
+    "explanation": "상부작업자는 파란색 식별띠로 구분한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 28,
+    "category": "easy",
+    "text": "상부작업자의 경력 기준은?",
+    "choices": [
+      "3개월 미만",
+      "6개월 이상 1년 미만",
+      "6개월 미만",
+      "1년 이상"
+    ],
+    "correct_choice": 3,
+    "answer": "1년 이상",
+    "explanation": "1년 이상 경력자가 상부작업자로 구분된다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 29,
+    "category": "easy",
+    "text": "빨간색 식별띠는 누구를 나타내는가?",
+    "choices": [
+      "보조작업자",
+      "하부작업자",
+      "방문자",
+      "상부작업자"
+    ],
+    "correct_choice": 0,
+    "answer": "보조작업자",
+    "explanation": "보조작업자는 빨간색 식별띠를 착용한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 30,
+    "category": "easy",
+    "text": "보조작업자의 경력 기준은?",
+    "choices": [
+      "3년 이상",
+      "6개월 미만",
+      "6개월 이상 1년 미만",
+      "1년 이상"
+    ],
+    "correct_choice": 2,
+    "answer": "6개월 이상 1년 미만",
+    "explanation": "6개월 이상부터 1년 미만까지는 보조작업자이다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 31,
+    "category": "easy",
+    "text": "노란색 식별띠는 누구를 나타내는가?",
+    "choices": [
+      "하부작업자",
+      "보조작업자",
+      "상부작업자",
+      "방문자"
+    ],
+    "correct_choice": 0,
+    "answer": "하부작업자",
+    "explanation": "하부작업자는 노란색 식별띠로 구분한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 32,
+    "category": "easy",
+    "text": "하부작업자의 경력 기준은?",
+    "choices": [
+      "6개월 이상 1년 미만",
+      "6개월 미만",
+      "1년 이상",
+      "2년 이상"
+    ],
+    "correct_choice": 1,
+    "answer": "6개월 미만",
+    "explanation": "6개월 미만 경력자는 하부 고정과 구역 설정을 지원한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 33,
+    "category": "easy",
+    "text": "공통 착용 보호구에 포함되는 것은?",
+    "choices": [
+      "선글라스",
+      "일반 면장갑",
+      "헤드랜턴",
+      "일반 슬리퍼"
+    ],
+    "correct_choice": 2,
+    "answer": "헤드랜턴",
+    "explanation": "공통 착용은 안전모, 안전화, 안전대, 헤드랜턴, 이탈방지끈이다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 34,
+    "category": "easy",
+    "text": "일일 점검에서 이상을 발견하면?",
+    "choices": [
+      "즉시 사용 중지 후 보고",
+      "내일 보고",
+      "대충 사용",
+      "이상 부위만 가리기"
+    ],
+    "correct_choice": 0,
+    "answer": "즉시 사용 중지 후 보고",
+    "explanation": "하나라도 이상이 있으면 사용을 중지하고 안전담당자에게 보고한다.",
+    "source": "원본 PDF 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 35,
+    "category": "easy",
+    "text": "승강설비 점검 항목은?",
+    "choices": [
+      "도색 색상만 확인",
+      "볼트와 브라켓 체결의 견고함",
+      "작업자 키만 확인",
+      "전화번호 확인"
+    ],
+    "correct_choice": 1,
+    "answer": "볼트와 브라켓 체결의 견고함",
+    "explanation": "설치 여부와 볼트·브라켓의 견고한 체결 상태를 확인한다.",
+    "source": "원본 PDF 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 36,
+    "category": "easy",
+    "text": "보강대에서 확인할 테이프는?",
+    "choices": [
+      "해체금지 테이프",
+      "포장용 테이프만",
+      "종이테이프 색상만",
+      "장식용 테이프"
+    ],
+    "correct_choice": 0,
+    "answer": "해체금지 테이프",
+    "explanation": "설치와 볼트 고정뿐 아니라 해체금지 테이프도 확인한다.",
+    "source": "원본 PDF 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 37,
+    "category": "easy",
+    "text": "자재박스와 생명줄의 설치 위치는?",
+    "choices": [
+      "출입문 바로 앞",
+      "출입문 반대편",
+      "타워 바깥 바닥",
+      "난간대 바깥 끝"
+    ],
+    "correct_choice": 1,
+    "answer": "출입문 반대편",
+    "explanation": "일일 점검표는 출입문 반대편 설치와 생명줄 마모를 확인하도록 한다.",
+    "source": "원본 PDF 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 38,
+    "category": "easy",
+    "text": "안전블록에서 확인할 사항은?",
+    "choices": [
+      "서류 글자 크기",
+      "작업자의 식사 여부",
+      "휴대전화 충전 상태",
+      "와이어로프 파단 여부와 상단 카라비너 고정"
+    ],
+    "correct_choice": 3,
+    "answer": "와이어로프 파단 여부와 상단 카라비너 고정",
+    "explanation": "작동 여부와 로프 손상, 상단 카라비너 고정을 함께 확인한다.",
+    "source": "원본 PDF 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 39,
+    "category": "easy",
+    "text": "승·하강 중 최소 유지해야 하는 안전고리 체결은?",
+    "choices": [
+      "1점 이상",
+      "두 고리 모두 해제",
+      "체결 필요 없음",
+      "0점"
+    ],
+    "correct_choice": 0,
+    "answer": "1점 이상",
+    "explanation": "2점 교차체결 중에도 한쪽 고리는 항상 체결된 상태를 유지한다.",
+    "source": "원본 PDF 5, 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 40,
+    "category": "easy",
+    "text": "승·하강 중 두 안전고리의 동시 해제는?",
+    "choices": [
+      "짧은 시간 허용",
+      "하강 때만 허용",
+      "경력자만 허용",
+      "금지"
+    ],
+    "correct_choice": 3,
+    "answer": "금지",
+    "explanation": "한쪽을 옮길 때 나머지 한쪽을 체결해 추락방지 상태를 유지한다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 41,
+    "category": "easy",
+    "text": "일반 구간 상부작업 시 난간대는?",
+    "choices": [
+      "제거한 상태",
+      "내린 상태",
+      "작업자 임의 선택",
+      "올린 상태"
+    ],
+    "correct_choice": 3,
+    "answer": "올린 상태",
+    "explanation": "OHT 간섭 구간을 제외하고 난간대를 상승시킨다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 42,
+    "category": "easy",
+    "text": "일반 구간 상부작업 시 낙하방지판은?",
+    "choices": [
+      "임의 선택",
+      "접기",
+      "제거",
+      "개방"
+    ],
+    "correct_choice": 3,
+    "answer": "개방",
+    "explanation": "설비 간섭 구간을 제외하고 낙하방지판을 개방한다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 43,
+    "category": "easy",
+    "text": "공도구와 자재의 이탈방지끈 체결 위치는?",
+    "choices": [
+      "바닥",
+      "난간대 바깥",
+      "손목",
+      "출입문 손잡이에만"
+    ],
+    "correct_choice": 2,
+    "answer": "손목",
+    "explanation": "원문은 공도구·자재의 이탈방지끈을 손목에 체결하도록 한다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 44,
+    "category": "easy",
+    "text": "난간대에 앉거나 기대는 행동은?",
+    "choices": [
+      "짧은 작업만 허용",
+      "안전고리 체결 시 허용",
+      "금지",
+      "경력자만 허용"
+    ],
+    "correct_choice": 2,
+    "answer": "금지",
+    "explanation": "난간대를 의자나 기대는 지지물로 사용하지 않는다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 45,
+    "category": "easy",
+    "text": "안전담당자가 작업 현장을 이탈하면?",
+    "choices": [
+      "작업속도 증가",
+      "작업 계속",
+      "작업 중지",
+      "상부작업자 판단으로 지속"
+    ],
+    "correct_choice": 2,
+    "answer": "작업 중지",
+    "explanation": "위험작업은 안전담당자 현장 상주가 필요하다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 46,
+    "category": "easy",
+    "text": "1인 상부작업은?",
+    "choices": [
+      "1년 경력자 허용",
+      "절대 금지",
+      "5분 이내 허용",
+      "야간만 허용"
+    ],
+    "correct_choice": 1,
+    "answer": "절대 금지",
+    "explanation": "숙련도나 작업시간으로 1인 상부작업 금지 기준을 바꿀 수 없다.",
+    "source": "원본 PDF 9쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 47,
+    "category": "easy",
+    "text": "원칙적으로 가능한 작업자 조합은?",
+    "choices": [
+      "보조와 보조",
+      "상부 1인",
+      "상부와 보조",
+      "상부와 하부"
+    ],
+    "correct_choice": 2,
+    "answer": "상부와 보조",
+    "explanation": "상부+상부, 상부+보조, 보조+하부가 가능한 조합이다.",
+    "source": "원본 PDF 9쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 48,
+    "category": "easy",
+    "text": "5m 이상 이동할 때 상부작업자는?",
+    "choices": [
+      "반드시 내려서 이동",
+      "앉아서 이동",
+      "난간대에 기대어 이동",
+      "서서 이동"
+    ],
+    "correct_choice": 0,
+    "answer": "반드시 내려서 이동",
+    "explanation": "5m 이상이면 먼저 하강한 뒤 타워를 이동한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 49,
+    "category": "easy",
+    "text": "5m 미만 이동 시 가능한 상부작업자 자세는?",
+    "choices": [
+      "안전고리를 풀고 앉기",
+      "안전고리를 체결하고 앉기",
+      "서기",
+      "난간대에 걸터앉기"
+    ],
+    "correct_choice": 1,
+    "answer": "안전고리를 체결하고 앉기",
+    "explanation": "앉은 상태 이동은 5m 미만에서 안전고리 체결 유지가 조건이다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 50,
+    "category": "easy",
+    "text": "이동에 필요한 인원 구성은?",
+    "choices": [
+      "안전담당자 1명만",
+      "작업자 1명",
+      "작업자 2명만",
+      "작업자 2명 이상과 안전담당자 1명"
+    ],
+    "correct_choice": 3,
+    "answer": "작업자 2명 이상과 안전담당자 1명",
+    "explanation": "작업자 수와 안전담당자 배치를 모두 충족해야 한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 51,
+    "category": "easy",
+    "text": "이동 유도 시 안전담당자가 사용하는 것은?",
+    "choices": [
+      "청소 솔",
+      "경광봉",
+      "일반 연필",
+      "자재박스"
+    ],
+    "correct_choice": 1,
+    "answer": "경광봉",
+    "explanation": "경광봉 또는 시그널라이트를 사용하며 유도 멘트를 실시한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 52,
+    "category": "easy",
+    "text": "이동 완료 후 필요한 조치는?",
+    "choices": [
+      "즉시 작업만 시작",
+      "재고정 및 안전펜스 구획",
+      "스토퍼 전부 해제",
+      "아웃트리거 접어두기"
+    ],
+    "correct_choice": 1,
+    "answer": "재고정 및 안전펜스 구획",
+    "explanation": "이동 후 아웃트리거·스토퍼를 다시 고정하고 작업구역을 설정한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 53,
+    "category": "easy",
+    "text": "Grating 오픈 발견 시 첫 행동은?",
+    "choices": [
+      "작업 계속",
+      "작업 중단",
+      "자재 적재",
+      "타워 임의 이동"
+    ],
+    "correct_choice": 1,
+    "answer": "작업 중단",
+    "explanation": "작업 중단 후 구획 설정과 보고, 조치 순서로 대응한다.",
+    "source": "원본 PDF 8, 19쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 54,
+    "category": "easy",
+    "text": "Grating 오픈 구획 방식은?",
+    "choices": [
+      "1면 표시",
+      "2면 표시",
+      "4면 완전연결",
+      "구획 생략"
+    ],
+    "correct_choice": 2,
+    "answer": "4면 완전연결",
+    "explanation": "개방된 부분은 4면이 완전히 연결된 구획으로 통제한다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 55,
+    "category": "easy",
+    "text": "청정라인에서 사용할 수 있는 종이는?",
+    "choices": [
+      "Clean Paper",
+      "일반 노트",
+      "일반 복사용지",
+      "일반 신문"
+    ],
+    "correct_choice": 0,
+    "answer": "Clean Paper",
+    "explanation": "승인된 Clean Paper와 Notebook을 사용하며 일반 종이류는 금지한다.",
+    "source": "원본 PDF 14쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 56,
+    "category": "easy",
+    "text": "청정라인에서 일반 면장갑은?",
+    "choices": [
+      "사용 금지",
+      "항상 허용",
+      "새 제품이면 허용",
+      "상부작업자만 허용"
+    ],
+    "correct_choice": 0,
+    "answer": "사용 금지",
+    "explanation": "승인된 Full 장갑 또는 PVC/Nitrile Glove를 착용한다.",
+    "source": "원본 PDF 13쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 57,
+    "category": "easy",
+    "text": "청정라인에서 매니큐어와 네일아트는?",
+    "choices": [
+      "장갑 착용 시 허용",
+      "금지",
+      "투명색 허용",
+      "짧은 손톱만 허용"
+    ],
+    "correct_choice": 1,
+    "answer": "금지",
+    "explanation": "손톱 화장은 금지하고 짧고 청결한 손톱을 유지한다.",
+    "source": "원본 PDF 13쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 58,
+    "category": "easy",
+    "text": "청정라인에서 머리카락은?",
+    "choices": [
+      "앞머리만 노출",
+      "귀 뒤로만 넘김",
+      "밖으로 나오지 않게 완전히 가림",
+      "긴 머리만 가림"
+    ],
+    "correct_choice": 2,
+    "answer": "밖으로 나오지 않게 완전히 가림",
+    "explanation": "머리카락을 완전히 가리고 방진모 턱끈을 단단히 조인다.",
+    "source": "원본 PDF 13쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 59,
+    "category": "easy",
+    "text": "에어샤워 앞 스크린 임의 조작은?",
+    "choices": [
+      "작업 종료 때 허용",
+      "관리자 없을 때 허용",
+      "금지",
+      "서두를 때 허용"
+    ],
+    "correct_choice": 2,
+    "answer": "금지",
+    "explanation": "에어샤워를 정상적으로 통과하고 스크린을 임의로 열거나 조작하지 않는다.",
+    "source": "원본 PDF 12, 19쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 60,
+    "category": "easy",
+    "text": "작업 후 Rail과 그레이팅 내부에서 확인할 것은?",
+    "choices": [
+      "식사 인원",
+      "개인 메시지",
+      "자재와 공구 잔류 여부",
+      "다음 급여일"
+    ],
+    "correct_choice": 2,
+    "answer": "자재와 공구 잔류 여부",
+    "explanation": "남은 공구와 자재를 확인하여 정리하고 원위치 복귀와 보고를 수행한다.",
+    "source": "원본 PDF 10, 17쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 61,
+    "category": "medium",
+    "text": "생명줄이 지름 16mm 미만이지만 인증 인장강도가 2340kgf 이상이다. 원문의 로프 규격 판단으로 맞는 것은?",
+    "choices": [
+      "인증 없이 사용 가능",
+      "지름만 인정",
+      "인장강도는 무관",
+      "지름 또는 인증 인장강도 기준을 충족"
+    ],
+    "correct_choice": 3,
+    "answer": "지름 또는 인증 인장강도 기준을 충족",
+    "explanation": "원문은 16mm 이상 또는 인장강도 2340kgf 이상인 인증 로프를 제시한다. 규격 외 처짐·매듭·태그 점검도 필요하다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 62,
+    "category": "medium",
+    "text": "인증태그는 4개지만 생명줄 처짐이 25cm이다. 맞는 조치는?",
+    "choices": [
+      "매듭만 풀기",
+      "사용 중지 후 처짐을 기준에 맞게 조치",
+      "태그만 추가",
+      "그대로 사용"
+    ],
+    "correct_choice": 1,
+    "answer": "사용 중지 후 처짐을 기준에 맞게 조치",
+    "explanation": "태그 개수 충족만으로 충분하지 않다. 처짐도 20cm 이하이어야 한다.",
+    "source": "원본 PDF 4, 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 63,
+    "category": "medium",
+    "text": "4대 서류 중 SOP가 없다. 나머지 서류는 정상이다. 맞는 판단은?",
+    "choices": [
+      "작업 가능",
+      "구두 설명으로 대체",
+      "종료 후 보충",
+      "작업 시작 금지"
+    ],
+    "correct_choice": 3,
+    "answer": "작업 시작 금지",
+    "explanation": "원문은 필수서류 하나라도 없으면 작업 시작을 금지한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 64,
+    "category": "medium",
+    "text": "승강 후 출입문을 닫았다. 다음으로 확인할 사항은?",
+    "choices": [
+      "휴대전화 충전",
+      "시건장치 잠금과 자재박스 유무",
+      "급여명세서",
+      "식사 예약"
+    ],
+    "correct_choice": 1,
+    "answer": "시건장치 잠금과 자재박스 유무",
+    "explanation": "문을 닫는 것으로 끝내지 않고 잠금과 자재박스도 확인한다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 65,
+    "category": "medium",
+    "text": "OHT 간섭 구간에서 난간대를 올리려 한다. 맞는 판단은?",
+    "choices": [
+      "난간대 제거",
+      "무조건 상승",
+      "난간대에 앉기",
+      "간섭 예외를 확인하고 추돌에 주의"
+    ],
+    "correct_choice": 3,
+    "answer": "간섭 예외를 확인하고 추돌에 주의",
+    "explanation": "난간대 상승 원칙에는 OHT 간섭 구간 예외가 있으며 상승 시 OHT 추돌에 주의한다.",
+    "source": "원본 PDF 4, 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 66,
+    "category": "medium",
+    "text": "Rail Open 또는 Port 간섭 구간에서 낙하방지판을 어떻게 판단하는가?",
+    "choices": [
+      "항상 제거",
+      "무조건 개방",
+      "모든 구간 접기",
+      "설비 간섭 구간 예외를 적용"
+    ],
+    "correct_choice": 3,
+    "answer": "설비 간섭 구간 예외를 적용",
+    "explanation": "일반 구간은 개방하지만 원문은 설비 간섭 구간에 예외를 둔다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 67,
+    "category": "medium",
+    "text": "상부구조물 직접 체결 금지 구간에서 안전고리 체결 위치는?",
+    "choices": [
+      "난간대",
+      "바퀴",
+      "공구함",
+      "금지된 상부구조물"
+    ],
+    "correct_choice": 0,
+    "answer": "난간대",
+    "explanation": "원문은 직접 체결 금지 구간에서는 난간대에 체결하도록 예외를 명시한다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 68,
+    "category": "medium",
+    "text": "안전고리를 생명줄에 체결할 때 고려할 것은?",
+    "choices": [
+      "작업시간만",
+      "작업자 이름만",
+      "추락 시 바닥에 닿지 않는 최하사점",
+      "로프 색상만"
+    ],
+    "correct_choice": 2,
+    "answer": "추락 시 바닥에 닿지 않는 최하사점",
+    "explanation": "체결했다는 사실뿐 아니라 추락 시 바닥에 닿지 않는 위치인지 확인해야 한다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 69,
+    "category": "medium",
+    "text": "상부와 하부 작업자 조합의 예외 작업은?",
+    "choices": [
+      "모든 양중작업",
+      "모든 Rail 설치",
+      "모든 화기작업",
+      "Rail Tag 및 스티커 부착 또는 Rail Clean"
+    ],
+    "correct_choice": 3,
+    "answer": "Rail Tag 및 스티커 부착 또는 Rail Clean",
+    "explanation": "이 조합은 원칙적으로 불가능하나 명시된 작업에 한해 예외가 있다.",
+    "source": "원본 PDF 9쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 70,
+    "category": "medium",
+    "text": "정확히 5m 이동할 때 맞는 행동은?",
+    "choices": [
+      "앉아서 이동",
+      "상부작업자 하강 후 이동",
+      "난간대에 기대기",
+      "서서 이동"
+    ],
+    "correct_choice": 1,
+    "answer": "상부작업자 하강 후 이동",
+    "explanation": "5m는 5m 이상에 포함되므로 하강 기준을 적용한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 71,
+    "category": "medium",
+    "text": "2m 이동하며 앉아 있는 작업자가 안전고리를 풀었다. 맞는 조치는?",
+    "choices": [
+      "체결 유지 조건을 충족한 뒤 이동",
+      "거리만 짧으면 허용",
+      "안전담당자 있으면 해제",
+      "경력자만 허용"
+    ],
+    "correct_choice": 0,
+    "answer": "체결 유지 조건을 충족한 뒤 이동",
+    "explanation": "5m 미만이어도 안전고리 체결을 유지해야 한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 72,
+    "category": "medium",
+    "text": "안전담당자가 없고 작업자는 3명이다. 이동 가능한가?",
+    "choices": [
+      "1m만 가능",
+      "이동 금지",
+      "3명이므로 가능",
+      "상부에 사람이 없으면 항상 가능"
+    ],
+    "correct_choice": 1,
+    "answer": "이동 금지",
+    "explanation": "작업자 수가 많아도 안전담당자 부재 시 이동 금지 기준은 그대로 적용한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 73,
+    "category": "medium",
+    "text": "이동 중 문틀과 천장이 가까워졌다. 확인할 위험은?",
+    "choices": [
+      "서류 글자 크기",
+      "공구 가격",
+      "추돌 위험",
+      "식별띠 변색"
+    ],
+    "correct_choice": 2,
+    "answer": "추돌 위험",
+    "explanation": "OHT OPEN 구간과 문틀·천장·전선 등 추돌 위험 구간은 다시 확인한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 74,
+    "category": "medium",
+    "text": "작업 종료 후 원위치에 주차했다. 추가로 할 조치는?",
+    "choices": [
+      "안전펜스 구획 및 스토퍼 고정",
+      "자재 방치",
+      "스토퍼 해제",
+      "구획 철거만"
+    ],
+    "correct_choice": 0,
+    "answer": "안전펜스 구획 및 스토퍼 고정",
+    "explanation": "원위치 주차 후 구획하며 보관 시에도 스토퍼 4개를 모두 잠근다.",
+    "source": "원본 PDF 4, 11쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 75,
+    "category": "medium",
+    "text": "그레이팅 위에서 작업하려 한다. 교육자료의 조치는?",
+    "choices": [
+      "임의로 작업",
+      "보강대 제거",
+      "자재를 먼저 적재",
+      "보강판 설치 후 작업"
+    ],
+    "correct_choice": 3,
+    "answer": "보강판 설치 후 작업",
+    "explanation": "자료는 그레이팅 위에는 보강판 설치 후 작업하고 자재 방치·적재는 하지 않도록 한다.",
+    "source": "원본 PDF 12쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 76,
+    "category": "medium",
+    "text": "청정라인에서 화장품을 금지하는 이유는?",
+    "choices": [
+      "식별띠를 가려서",
+      "서류가 늘어서",
+      "나노 입자가 제품 표면에 붙어 불량 유발",
+      "작업시간이 짧아져서"
+    ],
+    "correct_choice": 2,
+    "answer": "나노 입자가 제품 표면에 붙어 불량 유발",
+    "explanation": "선크림·파우더·BB크림·립밤 등의 입자가 웨이퍼와 제품 표면을 오염시킬 수 있다.",
+    "source": "원본 PDF 13쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 77,
+    "category": "medium",
+    "text": "방진복이 더러워졌다. 맞는 조치는?",
+    "choices": [
+      "계속 재사용",
+      "겉에 일반복 착용",
+      "오염 부위만 숨김",
+      "세탁된 깨끗한 보호복 사용"
+    ],
+    "correct_choice": 3,
+    "answer": "세탁된 깨끗한 보호복 사용",
+    "explanation": "오염된 보호복을 재사용하지 않고 깨끗한 보호복을 사용한다.",
+    "source": "원본 PDF 13쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 78,
+    "category": "medium",
+    "text": "마스크의 올바른 착용은?",
+    "choices": [
+      "콧등과 턱에 밀착하고 주름은 아래로",
+      "콧등 노출",
+      "뒤끈 풀기",
+      "턱만 가림"
+    ],
+    "correct_choice": 0,
+    "answer": "콧등과 턱에 밀착하고 주름은 아래로",
+    "explanation": "올바른 밀착과 방향을 함께 확인한다.",
+    "source": "원본 PDF 13쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 79,
+    "category": "medium",
+    "text": "TBM 작업 전 단계의 핵심은?",
+    "choices": [
+      "작업 완료 보고만",
+      "잔류 공구 확인만",
+      "원위치 복귀만",
+      "위험요인 확인과 대책 수립"
+    ],
+    "correct_choice": 3,
+    "answer": "위험요인 확인과 대책 수립",
+    "explanation": "작업 전에는 위험요인·대책과 6면 및 위험·간섭·비상 요소를 인지한다.",
+    "source": "원본 PDF 17쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 80,
+    "category": "medium",
+    "text": "안전 인터뷰에서 현재 작업을 설명하는 방법은?",
+    "choices": [
+      "위험요인 생략",
+      "개인 경력만 대답",
+      "범위와 위치와 기구 및 SOP와 위험요인 설명",
+      "작업명만 대답"
+    ],
+    "correct_choice": 2,
+    "answer": "범위와 위치와 기구 및 SOP와 위험요인 설명",
+    "explanation": "현재 작업의 범위·위치·사용 기구를 간단히 말하고 SOP와 위험요인을 함께 설명한다.",
+    "source": "원본 PDF 19쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 81,
+    "category": "hard",
+    "text": "5m 이동 계획이다. 상부작업자는 앉아 안전고리를 체결했고 하부작업자 2명과 안전담당자도 있다. 무엇을 바꿔야 하는가?",
+    "choices": [
+      "상부작업자 서서 이동",
+      "스토퍼 한 개만 풀기",
+      "상부작업자가 내려온 후 이동",
+      "아무 변경 없이 이동"
+    ],
+    "correct_choice": 2,
+    "answer": "상부작업자가 내려온 후 이동",
+    "explanation": "인원과 안전고리 조건을 충족해도 5m 이상 이동에서는 상부작업자가 반드시 내려야 한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 82,
+    "category": "hard",
+    "text": "생명줄 처짐은 30cm이고 양 끝 인증태그는 각각 1개이다. 올바른 조치는?",
+    "choices": [
+      "태그만 조치",
+      "처짐만 조치",
+      "매듭 정상이면 계속 사용",
+      "사용 중지 후 처짐과 태그를 모두 조치"
+    ],
+    "correct_choice": 3,
+    "answer": "사용 중지 후 처짐과 태그를 모두 조치",
+    "explanation": "처짐 20cm 이하와 양 끝 2개씩 총 4개 태그를 모두 충족해야 한다.",
+    "source": "원본 PDF 4, 7쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 83,
+    "category": "hard",
+    "text": "설비 진입 때문에 보강대를 해제했다. 진입 후 바퀴와 아웃트리거는 고정했다. 작업 전 무엇이 필요한가?",
+    "choices": [
+      "작업 종료 후 재설치",
+      "보강대 재설치",
+      "즉시 작업",
+      "난간대 하강"
+    ],
+    "correct_choice": 1,
+    "answer": "보강대 재설치",
+    "explanation": "다른 고정장치가 정상이어도 해제한 보강대를 작업 전에 반드시 재설치해야 한다.",
+    "source": "원본 PDF 4, 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 84,
+    "category": "hard",
+    "text": "서류와 타워 점검은 정상이다. 작업 중 안전담당자가 급한 연락을 받고 현장을 나갔다. 맞는 판단은?",
+    "choices": [
+      "서류 정상이므로 계속",
+      "경력자가 대신 판단",
+      "하부작업자만 계속",
+      "작업 중지 후 상주 기준 충족 시 재개"
+    ],
+    "correct_choice": 3,
+    "answer": "작업 중지 후 상주 기준 충족 시 재개",
+    "explanation": "준비 상태가 정상이었다는 사실은 작업 중 상주 기준을 대신하지 못한다.",
+    "source": "원본 PDF 8, 17쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 85,
+    "category": "hard",
+    "text": "Grating 오픈을 발견했다. 대응 순서로 맞는 것은?",
+    "choices": [
+      "보고 후 계속 작업",
+      "이동 후 종료 때 보고",
+      "작업 중단 후 구획 설정 후 보고 후 조치하고 재개",
+      "자재 운반 후 구획"
+    ],
+    "correct_choice": 2,
+    "answer": "작업 중단 후 구획 설정 후 보고 후 조치하고 재개",
+    "explanation": "4면 완전연결 구획을 모서리 기준 2m 이내에 설정하고 안전담당자에게 보고하여 조치 후 재개한다.",
+    "source": "원본 PDF 19쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 86,
+    "category": "hard",
+    "text": "보조작업자 2명이 일반 Rail 설치 작업을 하려 한다. Rail Clean은 아니다. 올바른 판단은?",
+    "choices": [
+      "빨간 띠면 모두 가능",
+      "단시간이면 가능",
+      "안전담당자 있으면 무조건 가능",
+      "원칙상 불가능한 조합이므로 조합 변경"
+    ],
+    "correct_choice": 3,
+    "answer": "원칙상 불가능한 조합이므로 조합 변경",
+    "explanation": "보조+보조는 원칙적으로 불가능하다. 예외는 Rail Tag·스티커 부착과 Rail Clean으로 한정된다.",
+    "source": "원본 PDF 9쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 87,
+    "category": "hard",
+    "text": "OHT 간섭으로 난간대 상승 예외를 적용했다. 작업자가 난간대에 앉으려 한다. 맞는 판단은?",
+    "choices": [
+      "난간대에 앉는 행위는 여전히 금지",
+      "간섭 예외면 앉기 허용",
+      "경력자만 허용",
+      "고리 체결하면 앉기 허용"
+    ],
+    "correct_choice": 0,
+    "answer": "난간대에 앉는 행위는 여전히 금지",
+    "explanation": "간섭 구간의 난간대 상승 예외는 난간대에 앉거나 기대는 행동을 허용하지 않는다.",
+    "source": "원본 PDF 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 88,
+    "category": "hard",
+    "text": "2.5m 이동 후 스토퍼만 고정했다. 아웃트리거 재고정과 안전펜스 설정은 하지 않았다. 다음 행동은?",
+    "choices": [
+      "출입문 열어두기",
+      "재고정과 구획을 완료한 후 작업",
+      "즉시 상부작업",
+      "안전고리만 풀기"
+    ],
+    "correct_choice": 1,
+    "answer": "재고정과 구획을 완료한 후 작업",
+    "explanation": "이동 후에는 아웃트리거·스토퍼 재고정과 안전펜스 구획을 모두 실시한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 89,
+    "category": "hard",
+    "text": "청정구역 입장자가 새 면장갑을 끼고 일반 노트를 가져왔다. 방진복은 깨끗하다. 조치는?",
+    "choices": [
+      "노트만 변경",
+      "승인 장갑과 Clean Notebook으로 변경",
+      "장갑만 변경",
+      "방진복 정상이면 통과"
+    ],
+    "correct_choice": 1,
+    "answer": "승인 장갑과 Clean Notebook으로 변경",
+    "explanation": "깨끗한 방진복 외에도 승인된 장갑과 문구류 기준을 각각 충족해야 한다.",
+    "source": "원본 PDF 13, 14쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 90,
+    "category": "hard",
+    "text": "승강 중 두 고리를 동시에 풀고 한 칸 올라간 뒤 다시 체결하려 한다. 안전담당자는 지켜보고 있다. 맞는 판단은?",
+    "choices": [
+      "동시 해제 금지이며 한쪽 체결을 계속 유지",
+      "감시 중이면 허용",
+      "한 칸만 허용",
+      "하강할 때만 금지"
+    ],
+    "correct_choice": 0,
+    "answer": "동시 해제 금지이며 한쪽 체결을 계속 유지",
+    "explanation": "안전담당자 입회는 교차체결 원칙을 대체하지 않는다. 승·하강 내내 최소 1점 체결을 유지한다.",
+    "source": "원본 PDF 5, 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": []
+  },
+  {
+    "number": 91,
+    "category": "short",
+    "text": "상부작업자가 내려야 하는 이동 거리 기준을 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "5m 이상",
+    "explanation": "5m 미만과 구분하며 정확히 5m도 하강 대상이다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [
+      "5미터 이상"
+    ],
+    "keyword_groups": [
+      [
+        "5m",
+        "5미터"
+      ],
+      [
+        "이상"
+      ]
+    ]
+  },
+  {
+    "number": 92,
+    "category": "short",
+    "text": "생명줄의 최대 처짐을 단위와 함께 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "20cm 이하",
+    "explanation": "수평을 기준으로 측정한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [
+      "20센티미터 이하"
+    ],
+    "keyword_groups": [
+      [
+        "20cm",
+        "20센티미터"
+      ],
+      [
+        "이하"
+      ]
+    ]
+  },
+  {
+    "number": 93,
+    "category": "short",
+    "text": "6.4M형에서 사용하는 추락방지 로프의 종류를 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "PP로프",
+    "explanation": "타이거로프는 신축성 때문에 금지된다.",
+    "source": "원본 PDF 3쪽",
+    "accepted_answers": [
+      "PP 로프"
+    ],
+    "keyword_groups": [
+      [
+        "pp로프",
+        "pp rope"
+      ]
+    ]
+  },
+  {
+    "number": 94,
+    "category": "short",
+    "text": "4대 서류를 모두 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "위험작업허가서, DRI, 전·중·후 Check Sheet, SOP",
+    "explanation": "네 종류를 모두 비치해야 하고 오늘 작업의 SOP도 숙지한다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": [
+      [
+        "허가서"
+      ],
+      [
+        "dri"
+      ],
+      [
+        "전중후checksheet",
+        "전중후체크시트",
+        "전중후점검표"
+      ],
+      [
+        "sop"
+      ]
+    ]
+  },
+  {
+    "number": 95,
+    "category": "short",
+    "text": "생명줄의 매듭 방식과 인증태그 수를 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "8자매듭, 총 4개로 양쪽 끝에 2개씩",
+    "explanation": "양 끝 체결 방식과 태그 배치를 함께 확인한다.",
+    "source": "원본 PDF 4쪽",
+    "accepted_answers": [],
+    "keyword_groups": [
+      [
+        "8자매듭"
+      ],
+      [
+        "4개"
+      ],
+      [
+        "양쪽",
+        "양끝",
+        "양단"
+      ],
+      [
+        "2개씩"
+      ]
+    ]
+  },
+  {
+    "number": 96,
+    "category": "short",
+    "text": "Grating 오픈의 구획 방식과 거리 기준을 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "4면 완전연결 구획, 모서리 기준 2m 이내",
+    "explanation": "작업 중단 후 구획 설정과 안전담당자 보고 및 조치를 실시한다.",
+    "source": "원본 PDF 8, 19쪽",
+    "accepted_answers": [],
+    "keyword_groups": [
+      [
+        "4면"
+      ],
+      [
+        "완전연결"
+      ],
+      [
+        "모서리"
+      ],
+      [
+        "2m",
+        "2미터"
+      ],
+      [
+        "이내"
+      ]
+    ]
+  },
+  {
+    "number": 97,
+    "category": "short",
+    "text": "롤링타워 이동 인원 구성을 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "작업자 2명 이상과 안전담당자 1명",
+    "explanation": "안전담당자는 경광봉과 멘트로 유도한다.",
+    "source": "원본 PDF 10쪽",
+    "accepted_answers": [],
+    "keyword_groups": [
+      [
+        "작업자"
+      ],
+      [
+        "2명"
+      ],
+      [
+        "이상"
+      ],
+      [
+        "안전담당자"
+      ],
+      [
+        "1명"
+      ]
+    ]
+  },
+  {
+    "number": 98,
+    "category": "short",
+    "text": "작업자 세 구분의 식별띠 색과 경력 기준을 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "상부 파랑 1년 이상, 보조 빨강 6개월 이상 1년 미만, 하부 노랑 6개월 미만",
+    "explanation": "정확히 6개월은 보조 기준, 정확히 1년은 상부 기준이다.",
+    "source": "원본 PDF 6쪽",
+    "accepted_answers": [],
+    "keyword_groups": [
+      [
+        "상부"
+      ],
+      [
+        "파랑",
+        "파란"
+      ],
+      [
+        "1년이상"
+      ],
+      [
+        "보조"
+      ],
+      [
+        "빨강",
+        "빨간"
+      ],
+      [
+        "6개월이상1년미만"
+      ],
+      [
+        "하부"
+      ],
+      [
+        "노랑",
+        "노란"
+      ],
+      [
+        "6개월미만"
+      ]
+    ]
+  },
+  {
+    "number": 99,
+    "category": "short",
+    "text": "승강 시 안전고리 체결 원칙을 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "2점 교차체결, 최소 1점 이상 항상 체결, 두 고리 동시 해제 금지",
+    "explanation": "한쪽을 이동할 때 나머지 한쪽을 체결하여 추락방지 상태를 유지한다.",
+    "source": "원본 PDF 5, 8쪽",
+    "accepted_answers": [],
+    "keyword_groups": [
+      [
+        "2점교차체결"
+      ],
+      [
+        "1점이상"
+      ],
+      [
+        "항상체결",
+        "체결유지"
+      ],
+      [
+        "동시해제금지"
+      ]
+    ]
+  },
+  {
+    "number": 100,
+    "category": "short",
+    "text": "안전담당자 현장 이탈 시 작업자의 조치를 쓰시오.",
+    "choices": [],
+    "correct_choice": null,
+    "answer": "작업 중지",
+    "explanation": "위험작업 상주 기준을 충족한 뒤 작업을 재개한다.",
+    "source": "원본 PDF 8, 17쪽",
+    "accepted_answers": [
+      "작업 중단"
+    ],
+    "keyword_groups": [
+      [
+        "작업중지",
+        "작업중단"
+      ]
+    ]
+  }
+]

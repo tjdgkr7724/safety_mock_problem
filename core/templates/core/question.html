@@ -1,0 +1,20 @@
+{% extends 'core/base.html' %}{% load static %}
+{% block content %}
+<div class="layout">
+  <aside class="card"><h2>문제 목록</h2><p class="muted">● 응답 완료　○ 미응답</p><nav class="question-list" aria-label="문제 이동">
+  {% for item in navigation %}<a data-nav data-position="{{ item.position }}" href="{% url 'core:question' attempt.pk item.position %}" class="{% if item.position == position %}current{% endif %}" {% if item.position == position %}aria-current="step"{% endif %}><span>{{ item.position }}번</span><span class="status" aria-label="{% if item.answered %}응답 완료{% else %}미응답{% endif %}">{% if item.answered %}●{% else %}○{% endif %}</span></a>{% endfor %}
+  </nav></aside>
+  <section class="card question-card">
+    <div class="question-meta"><span class="badge">{% if q.category == 'short' %}단답형{% else %}난이도 {{ q.label }}{% endif %}</span><span>{{ position }} / 10</span></div>
+    <h1>{{ q.text }}</h1>
+    <form id="answer-form" data-save-url="{% url 'core:save' attempt.pk position %}" data-position="{{ position }}">{% csrf_token %}
+    {% if q.category == 'short' %}<label for="short-answer">답안 입력</label><textarea id="short-answer" name="answer" maxlength="2000" rows="5" placeholder="답을 입력하세요">{{ answer }}</textarea>
+    {% else %}<fieldset><legend class="sr-only">정답 하나를 선택하세요</legend>{% for choice in q.choices %}<label class="choice"><input type="radio" name="answer" value="{{ choice.id }}" {% if answer == choice.id|stringformat:'s' %}checked{% endif %}><span class="option-number">{{ forloop.counter }}</span><span>{{ choice.text }}</span></label>{% endfor %}</fieldset>{% endif %}
+    </form>
+    <p id="save-status" class="muted" role="status">답변은 자동 저장됩니다.</p><button id="retry-save" type="button" hidden>저장 재시도</button>
+    <div class="actions">{% if previous %}<a data-nav class="button" href="{% url 'core:question' attempt.pk previous %}">← 이전</a>{% else %}<span></span>{% endif %}
+    {% if position == 10 %}<a data-nav class="button primary" href="{% url 'core:confirm' attempt.pk %}">제출하기</a>{% else %}<a data-nav class="button primary" href="{% url 'core:question' attempt.pk next %}">다음 →</a>{% endif %}</div>
+  </section>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{% static 'core/quiz.js' %}" defer></script>{% endblock %}
